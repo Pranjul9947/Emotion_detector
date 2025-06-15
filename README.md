@@ -1,6 +1,6 @@
 # 😊 Emotion Detection using Machine Learning
 
-A simple machine learning-based project that detects human emotions from images using a pre-trained model.
+A simple machine learning-based project that detects human emotions from images using a CNN model.
 
 ---
 
